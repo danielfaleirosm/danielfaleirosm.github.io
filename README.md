@@ -17,7 +17,6 @@ computador, na TV e no celular.
 | `T` | cronômetro |
 | `F` | tela cheia |
 
-A página é o `index.html` da raiz (há uma cópia em `docs/` para o caso de o Pages
-estar publicando de lá — dá para apagar uma das duas depois de confirmar qual vale).
-Arquivo único, sem dependências: as estruturas são SVG embutidos, gerados com RDKit
-a partir dos SMILES do PubChem.
+A página é o `index.html` da raiz — é de lá que o GitHub Pages publica. Arquivo
+único, sem dependências: as estruturas são SVG embutidos, gerados com RDKit a partir
+dos SMILES do PubChem. O código que monta esta página fica no repositório `school`.
